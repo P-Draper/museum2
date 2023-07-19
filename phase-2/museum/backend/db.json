@@ -1,0 +1,229 @@
+{
+  "expressionism": [
+    {
+      "title": "The Scream",
+      "artist": "Edvard Munch",
+      "year": 1893,
+      "medium": "Oil, tempera, pastel, and crayon on cardboard",
+      "nationality": "Norwegian",
+      "image": "museum/expressionism/The_Scream.jpg"
+    },
+    {
+      "title": "The Starry Night",
+      "artist": "Vincent van Gogh",
+      "year": 1889,
+      "medium": "Oil on canvas",
+      "nationality": "Dutch",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg"
+    },
+    {
+      "title": "Self-Portrait with Bandaged Ear",
+      "artist": "Vincent van Gogh",
+      "year": 1889,
+      "medium": "Oil on canvas",
+      "nationality": "Dutch",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Vincent_van_Gogh_-_Self-portrait_with_bandaged_ear_%281889%2C_Courtauld_Institute%29.jpg"
+    },
+    {
+      "title": "Dance Around the Golden Calf",
+      "artist": "Emil Nolde",
+      "year": 1910,
+      "medium": "Oil on canvas",
+      "nationality": "German",
+      "image": ""
+    },
+    {
+      "title": "The Dance",
+      "artist": "Henri Matisse",
+      "year": 1909,
+      "medium": "Oil on canvas",
+      "nationality": "French",
+      "image": "https://arthive.com/res/media/img/oy800/work/b74/449397.jpg"
+    },
+    {
+      "title": "The Bridge",
+      "artist": "Emil Nolde",
+      "year": 1906,
+      "medium": "Oil on canvas",
+      "nationality": "German",
+      "image": "https://www.museothyssen.org/sites/default/files/imagen/2017-03/CTB.1998.33.jpg"
+    },
+    {
+      "title": "Self Portrait with Physalis",
+      "artist": "Egon Schiele",
+      "year": 1912,
+      "medium": "Oil on canvas",
+      "nationality": "Austria"
+    },
+    {
+      "title": "Street, Dresden",
+      "artist": "Ernst Ludwig Kirchner",
+      "year": 1908,
+      "medium": "Oil on canvas",
+      "nationality": "German"
+    },
+    {
+      "title": "The Large Blue Horses",
+      "artist": "Franz Marc",
+      "year": 1911,
+      "medium": "Oil on canvas",
+      "nationality": "German",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Large_Blue_Horses.jpg"
+    },
+    {
+      "title": "Death and the Masks",
+      "artist": "James Ensor",
+      "year": 1897,
+      "medium": "Oil on canvas",
+      "nationality": "Belgium"
+    }
+  ]
+}
+{
+  "futurism": [
+    {
+      "title": "Unique Forms of Continuity in Space",
+      "artist": "Umberto Boccioni",
+      "year": 1913,
+      "medium": "Bronze sculpture",
+      "nationality": "Italian"
+    },
+    {
+      "title": "Dynamism of a Dog on a Leash",
+      "artist": "Giacomo Balla",
+      "year": 1912,
+      "medium": "Oil on canvas",
+      "nationality": "Italian"
+    },
+    {
+      "title": "The City Rises",
+      "artist": "Umberto Boccioni",
+      "year": 1910,
+      "medium": "Oil on canvas",
+      "nationality": "Italian"
+    },
+    {
+      "title": "Simultaneous Visions",
+      "artist": "Umberto Boccioni",
+      "year": 1911,
+      "medium": "Oil on canvas",
+      "nationality": "Italian"
+    },
+    {
+      "title": "Unique Forms of Continuity in Space",
+      "artist": "Marcel Duchamp",
+      "year": 1913,
+      "medium": "Bronze sculpture",
+      "nationality": "French"
+    },
+    {
+      "title": "The Charge of the Lancers",
+      "artist": "Gino Severini",
+      "year": 1915,
+      "medium": "Oil on canvas",
+      "nationality": "Italian"
+    },
+    {
+      "title": "Dynamism of a Cyclist",
+      "artist": "Umberto Boccioni",
+      "year": 1913,
+      "medium": "Oil on canvas",
+      "nationality": "Italian"
+    },
+    {
+      "title": "Noise of the Street Enters the House",
+      "artist": "Luigi Russolo",
+      "year": 1911,
+      "medium": "Oil on canvas",
+      "nationality": "Italian"
+    },
+    {
+      "title": "Dancer at Pigalle",
+      "artist": "Gino Severini",
+      "year": 1912,
+      "medium": "Oil on canvas",
+      "nationality": "Italian"
+    },
+    {
+      "title": "Funeral of the Anarchist Galli",
+      "artist": "Carlo Carra",
+      "year": 1911,
+      "medium": "Oil on canvas",
+      "nationality": "Italian"
+    }
+  ]
+}
+{
+  "abstract": [
+    {
+      "title": "No. 5, 1948",
+      "artist": "Jackson Pollock",
+      "year": 1948,
+      "medium": "Oil and enamel on canvas",
+      "nationality": "American"
+    },
+    {
+      "title": "Woman I",
+      "artist": "Willem de Kooning",
+      "year": 1950-1952,
+      "medium": "Oil on canvas",
+      "nationality": "American"
+    },
+    {
+      "title": "Blue Poles",
+      "artist": "Jackson Pollock",
+      "year": 1952,
+      "medium": "Enamel and aluminum paint on canvas",
+      "nationality": "American"
+    },
+    {
+      "title": "Number 1A",
+      "artist": "Mark Rothko",
+      "year": 1948,
+      "medium": "Oil on canvas",
+      "nationality": "American"
+    },
+    {
+      "title": "Black on Maroon",
+      "artist": "Mark Rothko",
+      "year": 1958,
+      "medium": "Oil on canvas",
+      "nationality": "American"
+    },
+    {
+      "title": "Elegy to the Spanish Republic no. 110",
+      "artist": "Robert Motherwell",
+      "year": 1962,
+      "medium": "Oil on canvas",
+      "nationality": "American"
+    },
+    {
+      "title": "Number 14",
+      "artist": "Mark Rothko",
+      "year": 1960,
+      "medium": "Oil on canvas",
+      "nationality": "American"
+    },
+    {
+      "title": "Lavender Mist",
+      "artist": "Jackson Pollock",
+      "year": 1950,
+      "medium": "Oil, enamel, and aluminum paint on canvas",
+      "nationality": "American"
+    },
+    {
+      "title": "Elegy to the Spanish Republic",
+      "artist": "Robert Motherwell",
+      "year": 1957-1961,
+      "medium": "Oil on canvas",
+      "nationality": "American"
+    },
+    {
+      "title": "Vir Heroicus Sublimis",
+      "artist": "Barnett Newman",
+      "year": 1950-1951,
+      "medium": "Oil on canvas",
+      "nationality": "American"
+    }
+  ]
+}
