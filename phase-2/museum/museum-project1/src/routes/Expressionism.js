@@ -12,7 +12,9 @@ export default function Expressionism(){
             <div key={index}>
               <h2>{artwork.title}</h2>
               <h3>{artwork.artist}</h3>
-              <p></p><p></p>
+              <div class='pContainer'>
+              <p className="paragraph">{artwork.year}</p><p className="paragraph">{artwork.medium}</p>
+              </div>
               <img width='600' height='600' src={artwork.image} alt={artwork.title} />
             </div>
           ))}
