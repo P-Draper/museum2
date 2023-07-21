@@ -1,229 +1,604 @@
 {
-  "expressionism": [
-    {
-      "title": "The Scream",
-      "artist": "Edvard Munch",
-      "year": 1893,
-      "medium": "Oil, tempera, pastel, and crayon on cardboard",
-      "nationality": "Norwegian",
-      "image": "museum/expressionism/The_Scream.jpg"
-    },
-    {
-      "title": "The Starry Night",
-      "artist": "Vincent van Gogh",
-      "year": 1889,
-      "medium": "Oil on canvas",
-      "nationality": "Dutch",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg"
-    },
-    {
-      "title": "Self-Portrait with Bandaged Ear",
-      "artist": "Vincent van Gogh",
-      "year": 1889,
-      "medium": "Oil on canvas",
-      "nationality": "Dutch",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Vincent_van_Gogh_-_Self-portrait_with_bandaged_ear_%281889%2C_Courtauld_Institute%29.jpg"
-    },
-    {
-      "title": "Dance Around the Golden Calf",
-      "artist": "Emil Nolde",
-      "year": 1910,
-      "medium": "Oil on canvas",
-      "nationality": "German",
-      "image": ""
-    },
-    {
-      "title": "The Dance",
-      "artist": "Henri Matisse",
-      "year": 1909,
-      "medium": "Oil on canvas",
-      "nationality": "French",
-      "image": "https://arthive.com/res/media/img/oy800/work/b74/449397.jpg"
-    },
-    {
-      "title": "The Bridge",
-      "artist": "Emil Nolde",
-      "year": 1906,
-      "medium": "Oil on canvas",
-      "nationality": "German",
-      "image": "https://www.museothyssen.org/sites/default/files/imagen/2017-03/CTB.1998.33.jpg"
-    },
-    {
-      "title": "Self Portrait with Physalis",
-      "artist": "Egon Schiele",
-      "year": 1912,
-      "medium": "Oil on canvas",
-      "nationality": "Austria"
-    },
-    {
-      "title": "Street, Dresden",
-      "artist": "Ernst Ludwig Kirchner",
-      "year": 1908,
-      "medium": "Oil on canvas",
-      "nationality": "German"
-    },
-    {
-      "title": "The Large Blue Horses",
-      "artist": "Franz Marc",
-      "year": 1911,
-      "medium": "Oil on canvas",
-      "nationality": "German",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Large_Blue_Horses.jpg"
-    },
-    {
-      "title": "Death and the Masks",
-      "artist": "James Ensor",
-      "year": 1897,
-      "medium": "Oil on canvas",
-      "nationality": "Belgium"
-    }
-  ]
-}
-{
-  "futurism": [
-    {
-      "title": "Unique Forms of Continuity in Space",
-      "artist": "Umberto Boccioni",
-      "year": 1913,
-      "medium": "Bronze sculpture",
-      "nationality": "Italian"
-    },
-    {
-      "title": "Dynamism of a Dog on a Leash",
-      "artist": "Giacomo Balla",
-      "year": 1912,
-      "medium": "Oil on canvas",
-      "nationality": "Italian"
-    },
-    {
-      "title": "The City Rises",
-      "artist": "Umberto Boccioni",
-      "year": 1910,
-      "medium": "Oil on canvas",
-      "nationality": "Italian"
-    },
-    {
-      "title": "Simultaneous Visions",
-      "artist": "Umberto Boccioni",
-      "year": 1911,
-      "medium": "Oil on canvas",
-      "nationality": "Italian"
-    },
-    {
-      "title": "Unique Forms of Continuity in Space",
-      "artist": "Marcel Duchamp",
-      "year": 1913,
-      "medium": "Bronze sculpture",
-      "nationality": "French"
-    },
-    {
-      "title": "The Charge of the Lancers",
-      "artist": "Gino Severini",
-      "year": 1915,
-      "medium": "Oil on canvas",
-      "nationality": "Italian"
-    },
-    {
-      "title": "Dynamism of a Cyclist",
-      "artist": "Umberto Boccioni",
-      "year": 1913,
-      "medium": "Oil on canvas",
-      "nationality": "Italian"
-    },
-    {
-      "title": "Noise of the Street Enters the House",
-      "artist": "Luigi Russolo",
-      "year": 1911,
-      "medium": "Oil on canvas",
-      "nationality": "Italian"
-    },
-    {
-      "title": "Dancer at Pigalle",
-      "artist": "Gino Severini",
-      "year": 1912,
-      "medium": "Oil on canvas",
-      "nationality": "Italian"
-    },
-    {
-      "title": "Funeral of the Anarchist Galli",
-      "artist": "Carlo Carra",
-      "year": 1911,
-      "medium": "Oil on canvas",
-      "nationality": "Italian"
-    }
-  ]
-}
-{
-  "abstract": [
-    {
-      "title": "No. 5, 1948",
-      "artist": "Jackson Pollock",
-      "year": 1948,
-      "medium": "Oil and enamel on canvas",
-      "nationality": "American"
-    },
-    {
-      "title": "Woman I",
-      "artist": "Willem de Kooning",
-      "year": 1950-1952,
-      "medium": "Oil on canvas",
-      "nationality": "American"
-    },
-    {
-      "title": "Blue Poles",
-      "artist": "Jackson Pollock",
-      "year": 1952,
-      "medium": "Enamel and aluminum paint on canvas",
-      "nationality": "American"
-    },
-    {
-      "title": "Number 1A",
-      "artist": "Mark Rothko",
-      "year": 1948,
-      "medium": "Oil on canvas",
-      "nationality": "American"
-    },
-    {
-      "title": "Black on Maroon",
-      "artist": "Mark Rothko",
-      "year": 1958,
-      "medium": "Oil on canvas",
-      "nationality": "American"
-    },
-    {
-      "title": "Elegy to the Spanish Republic no. 110",
-      "artist": "Robert Motherwell",
-      "year": 1962,
-      "medium": "Oil on canvas",
-      "nationality": "American"
-    },
-    {
-      "title": "Number 14",
-      "artist": "Mark Rothko",
-      "year": 1960,
-      "medium": "Oil on canvas",
-      "nationality": "American"
-    },
-    {
-      "title": "Lavender Mist",
-      "artist": "Jackson Pollock",
-      "year": 1950,
-      "medium": "Oil, enamel, and aluminum paint on canvas",
-      "nationality": "American"
-    },
-    {
-      "title": "Elegy to the Spanish Republic",
-      "artist": "Robert Motherwell",
-      "year": 1957-1961,
-      "medium": "Oil on canvas",
-      "nationality": "American"
-    },
-    {
-      "title": "Vir Heroicus Sublimis",
-      "artist": "Barnett Newman",
-      "year": 1950-1951,
-      "medium": "Oil on canvas",
-      "nationality": "American"
-    }
-  ]
+  "movements": [
+      {
+        "id": 1,
+        "title": "Les Demoiselles d'Avignon",
+        "artist": "Pablo Picasso",
+        "year": 1907,
+        "medium": "Oil on canvas",
+        "nationality": "Spanish",
+        "image": "https://www.pablopicasso.org/images/paintings/avignon.jpg",
+        "movement": "cubism"
+      },
+      {
+        "id": 2,
+        "title": "Guernica",
+        "artist": "Pablo Picasso",
+        "year": 1937,
+        "medium": "Oil on canvas",
+        "nationality": "Spanish",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Mural_del_Gernika.jpg",
+        "movement": "cubism"
+      },
+      {
+        "id": 3,
+        "title": "Violin and Candlestick",
+        "artist": "Georges Braque",
+        "year": 1910,
+        "medium": "Oil on canvas",
+        "nationality": "French",
+        "image": "https://www.artchive.com/wp-content/uploads/2023/04/Violin-and-Candlestick-Braque-Georges-1910-2.jpg",
+        "movement": "cubism"
+      },
+      {
+        "id": 4,
+        "title": "The Portuguese",
+        "artist": "Georges Braque",
+        "year": 1911,
+        "medium": "Oil on canvas",
+        "nationality": "French",
+        "image": "https://d7hftxdivxxvm.cloudfront.net/?height=800&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2FfuUgDVHT_V0fl48DHZ20Lg%2Fnormalized.jpg&width=563.jpg",
+        "movement": "cubism"
+      },
+      {
+        "id": 5,
+        "title": "Nude Descending a Staircase, No. 2",
+        "artist": "Marcel Duchamp",
+        "year": 1912,
+        "medium": "Oil on canvas",
+        "nationality": "French",
+        "image": "https://uploads5.wikiart.org/images/marcel-duchamp/nude-descending-a-staircase-no-2-1912.jpg",
+        "movement": "cubism"
+      },
+      {
+        "id": 6,
+        "title": "Glass of Absinthe",
+        "artist": "Pablo Picasso",
+        "year": 1914,
+        "medium": "Mixed media",
+        "nationality": "Spanish",
+        "image": "https://en.wikipedia.org/wiki/File:Picasso_Glass_of_Absinthe.jpg",
+        "movement": "cubism"
+      },
+      {
+        "id": 7,
+        "title": "Still Life with Chair Caning",
+        "artist": "Pablo Picasso",
+        "year": 1912,
+        "medium": "Mixed media",
+        "nationality": "Spanish",
+        "image": "https://en.wikipedia.org/wiki/File:Still_Life_with_Chair_Caning_Pablo_Picasso.jpg",
+        "movement": "cubism"
+      },
+      {
+        "id": 8,
+        "title": "Woman with a Guitar",
+        "artist": "Georges Braque",
+        "year": 1913,
+        "medium": "Oil on canvas",
+        "nationality": "French",
+        "image": "https://en.wikipedia.org/wiki/File:Georges_Braque,_1913,_Woman_with_a_Guitar,_oil_on_canvas,_91.3_x_65.5_cm,_Museum_of_Modern_Art,_New_York.jpg",
+        "movement": "cubism"
+      },
+      {
+        "id": 9,
+        "title": "The Reservoir, Horta de Ebro",
+        "artist": "Juan Gris",
+        "year": 1909,
+        "medium": "Oil on canvas",
+        "nationality": "Spanish",
+        "image": "assets/cubism/Reservoir-at-Horta.jpg",
+        "movement": "cubism"
+      },
+      {
+        "id": 10,
+        "title": "The Weeping Woman",
+        "artist": "Pablo Picasso",
+        "year": 1937,
+        "medium": "Oil on canvas",
+        "nationality": "Spanish",
+        "image": "assets/cubism/the weeping woman.jpg",
+        "movement": "cubism"
+      },
+      {
+        "id": 11,
+        "title": "Mona Lisa",
+        "artist": "Leonardo da Vinci",
+        "year": 1503,
+        "medium": "Oil on panel",
+        "nationality": "Italian",
+        "image": "https://uploads0.wikiart.org/00339/images/leonardo-da-vinci/mona-lisa-c-1503-1519.jpg",
+        "movement": "renaissance"
+      },
+      {
+        "id": 12,
+        "title": "The Last Supper",
+        "artist": "Leonardo da Vinci",
+        "year": 1498,
+        "medium": "Tempera on gesso, pitch, and mastic",
+        "nationality": "Italian",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/The-Last-Supper-Restored-Da-Vinci_32x16.jpg/2560px-The-Last-Supper-Restored-Da-Vinci_32x16.jpg",
+        "movement": "renaissance"
+      },
+      {
+        "id": 13,
+        "title": "The Birth of Venus",
+        "artist": "Sandro Botticelli",
+        "year": 1484,
+        "medium": "Tempera on canvas",
+        "nationality": "Italian",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg/800px-Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_Project_-_edited.jpg",
+        "movement": "renaissance"
+      },
+      {
+        "id": 14,
+        "title": "The Creation of Adam",
+        "artist": "Michelangelo",
+        "year": 1511,
+        "medium": "Fresco",
+        "nationality": "Italian",
+        "image": "https://th-thumbnailer.cdn-si-edu.com/zvrroTVd9q3H_KQtNMAS9lGPayU=/fit-in/1600x0/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/The-Creation-of-Adam-Michelangelo-631.jpg",
+        "movement": "renaissance"
+      },
+      {
+        "id": 15,
+        "title": "The School of Athens",
+        "artist": "Raphael",
+        "year": 1509,
+        "medium": "Fresco",
+        "nationality": "Italian",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/School-of-athens2.jpg/1024px-School-of-athens2.jpg",
+        "movement": "renaissance"
+      },
+      {
+        "id": 16,
+        "title": "David",
+        "artist": "Michelangelo",
+        "year": 1504,
+        "medium": "Marble sculpture",
+        "nationality": "Italian",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Michelangelo%27s_David_-_right_view_2.jpg/800px-Michelangelo%27s_David_-_right_view_2.jpg",
+        "movement": "renaissance"
+      },
+      {
+        "id": 17,
+        "title": "The Sistine Chapel Ceiling",
+        "artist": "Michelangelo",
+        "year": 1508,
+        "medium": "Fresco",
+        "nationality": "Italian",
+        "image": "assets/renaissance/Sistine_ceiling.jpg",
+        "movement": "renaissance"
+      },
+      {
+        "id": 18,
+        "title": "Primavera",
+        "artist": "Sandro Botticelli",
+        "year": 1482,
+        "medium": "Tempera on panel",
+        "nationality": "Italian",
+        "image": "assets/renaissance/Botticelli-primavera.jpg",
+        "movement": "renaissance"
+      },
+      {
+        "id": 19,
+        "title": "The Annunciation",
+        "artist": "Leonardo da Vinci",
+        "year": 1472,
+        "medium": "Oil on wood",
+        "nationality": "Italian",
+        "image": "assets/renaissance/Annunciation_(Leonardo).jpg",
+        "movement": "renaissance"
+      },
+      {
+        "id": 20,
+        "title": "The Tempest",
+        "artist": "Giorgione",
+        "year": 1508,
+        "medium": "Oil on canvas",
+        "nationality": "Italian",
+        "image": "assets/renaissance/the-tempest-Giorgione.jpg",
+        "movement": "renaissance"
+      },
+      {
+        "id": 21,
+        "title": "Impression, Sunrise",
+        "artist": "Claude Monet",
+        "year": 1872,
+        "medium": "Oil on canvas",
+        "nationality": "French",
+        "image": "https://www.1st-art-gallery.com/media/catalog/product/cache/9bad95616889b8b60a4bb85fbf2f33f9/paintingsL/80912/impression-sunrise-reproductio.jpg",
+        "movement": "impressionism"
+      },
+      {
+        "id": 22,
+        "title": "A Sunday on La Grande Jatte",
+        "artist": "Georges Seurat",
+        "year": 1884,
+        "medium": "Oil on canvas",
+        "nationality": "French",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/A_Sunday_on_La_Grande_Jatte_by_Georges_Seurat_-_Joy_of_Museums_-_Art_Institute_of_Chicago.jpg/1024px-A_Sunday_on_La_Grande_Jatte_by_Georges_Seurat_-_Joy_of_Museums_-_Art_Institute_of_Chicago.jpg",
+        "movement": "impressionism"
+      },
+      {
+        "id": 23,
+        "title": "Water Lilies",
+        "artist": "Claude Monet",
+        "year": 1906,
+        "medium": "Oil on canvas",
+        "nationality": "French",
+        "image": "https://www.artic.edu/iiif/2/3c27b499-af56-f0d5-93b5-a7f2f1ad5813/full/843,/0/default.jpg",
+        "movement": "impressionism"
+      },
+      {
+        "id": 24,
+        "title": "Dancers in Blue",
+        "artist": "Edgar Degas",
+        "year": 1890,
+        "medium": "Pastel on paper",
+        "nationality": "French",
+        "image": "https://aadsh2is.cdn.imgeng.in/optimized/cache/data/product_images/overstockart_2371_159154675-1000x1000.jpg",
+        "movement": "impressionism"
+      },
+      {
+        "id": 25,
+        "title": "The Starry Night",
+        "artist": "Vincent van Gogh",
+        "year": 1889,
+        "medium": "Oil on canvas",
+        "nationality": "Dutch",
+        "image": "https://sanctuarymentalhealth.org/wp-content/uploads/2021/03/The-Starry-Night-1200x630-1.jpg",
+        "movement": "impressionism"
+      },
+      {
+        "id": 26,
+        "title": "Bal du moulin de la Galette",
+        "artist": "Pierre-Auguste Renoir",
+        "year": 1876,
+        "medium": "Oil on canvas",
+        "nationality": "French",
+        "image": "assets/Impressionism/dance-at-le-moulin.jpg",
+        "movement": "impressionism"
+      },
+      {
+        "id": 27,
+        "title": "Woman with a Parasol",
+        "artist": "Claude Monet",
+        "year": 1875,
+        "medium": "Oil on canvas",
+        "nationality": "French",
+        "image": "assets/Impressionism/woman-with-a-parasol.jpg",
+        "movement": "impressionism"
+      },
+      {
+        "id": 28,
+        "title": "The Dance Class",
+        "artist": "Edgar Degas",
+        "year": 1873,
+        "medium": "Oil on canvas",
+        "nationality": "French",
+        "image": "assets/Impressionism/the-dance-class.jpg",
+        "movement": "impressionism"
+      },
+      {
+        "id": 29,
+        "title": "The Luncheon on the Grass",
+        "artist": "Édouard Manet",
+        "year": 1863,
+        "medium": "Oil on canvas",
+        "nationality": "French",
+        "image": "assets/Impressionism/Luncheon-on-the-Grass-detail_.jpg",
+        "movement": "impressionism"
+      },
+      {
+        "id": 30,
+        "title": "Sunflowers",
+        "artist": "Vincent van Gogh",
+        "year": 1888,
+        "medium": "Oil on canvas",
+        "nationality": "Dutch",
+        "image": "assets/Impressionism/sunflowers-van-gogh.jpg",
+        "movement": "impressionism"
+      },
+      {
+        "id": 31,
+        "title": "The Scream",
+        "artist": "Edvard Munch",
+        "year": 1893,
+        "medium": "Oil, tempera, pastel, and crayon on cardboard",
+        "nationality": "Norwegian",
+        "image": "https://smarthistory.org/wp-content/uploads/2021/12/Edvard_Munch_-_The_Scream_-_Google_Art_Project.jpeg",
+        "movement": "expressionism"
+      },
+      {
+        "id": 32,
+        "title": "The Starry Night",
+        "artist": "Vincent van Gogh",
+        "year": 1889,
+        "medium": "Oil on canvas",
+        "nationality": "Dutch",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+        "movement": "expressionism"
+      },
+      {
+        "id": 33,
+        "title": "Self-Portrait with Bandaged Ear",
+        "artist": "Vincent van Gogh",
+        "year": 1889,
+        "medium": "Oil on canvas",
+        "nationality": "Dutch",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Vincent_van_Gogh_-_Self-portrait_with_bandaged_ear_%281889%2C_Courtauld_Institute%29.jpg",
+        "movement": "expressionism"
+      },
+      {
+        "id": 34,
+        "title": "Dance Around the Golden Calf",
+        "artist": "Emil Nolde",
+        "year": 1910,
+        "medium": "Oil on canvas",
+        "nationality": "German",
+        "image": "",
+        "movement": "expressionism"
+      },
+      {
+        "id": 35,
+        "title": "The Dance",
+        "artist": "Henri Matisse",
+        "year": 1909,
+        "medium": "Oil on canvas",
+        "nationality": "French",
+        "image": "https://arthive.com/res/media/img/oy800/work/b74/449397.jpg",
+        "movement": "expressionism"
+      },
+      {
+        "id": 36,
+        "title": "The Bridge",
+        "artist": "Emil Nolde",
+        "year": 1906,
+        "medium": "Oil on canvas",
+        "nationality": "German",
+        "image": "https://www.museothyssen.org/sites/default/files/imagen/2017-03/CTB.1998.33.jpg",
+        "movement": "expressionism"
+      },
+      {
+        "id": 37,
+        "title": "Self Portrait with Physalis",
+        "artist": "Egon Schiele",
+        "year": 1912,
+        "medium": "Oil on canvas",
+        "nationality": "Austria",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Egon_Schiele_-_Self-Portrait_with_Physalis_-_Google_Art_Project.jpg/2529px-Egon_Schiele_-_Self-Portrait_with_Physalis_-_Google_Art_Project.jpg",
+        "movement": "expressionism"
+      },
+      {
+        "id": 38,
+        "title": "Street, Dresden",
+        "artist": "Ernst Ludwig Kirchner",
+        "year": 1908,
+        "medium": "Oil on canvas",
+        "nationality": "German",
+        "image": "",
+        "movement": "expressionism"
+      },
+      {
+        "id": 39,
+        "title": "The Large Blue Horses",
+        "artist": "Franz Marc",
+        "year": 1911,
+        "medium": "Oil on canvas",
+        "nationality": "German",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Large_Blue_Horses.jpg",
+        "movement": "expressionism"
+      },
+      {
+        "id": 40,
+        "title": "Death and the Masks",
+        "artist": "James Ensor",
+        "year": 1897,
+        "medium": "Oil on canvas",
+        "nationality": "Belgium",
+        "image": "",
+        "movement": "expressionism"
+      },
+      {
+        "id": 41,
+        "title": "Unique Forms of Continuity in Space",
+        "artist": "Umberto Boccioni",
+        "year": 1913,
+        "medium": "Bronze sculpture",
+        "nationality": "Italian",
+        "image": "https://images.metmuseum.org/CRDImages/ma/original/DT6411.jpg",
+        "movement": "futurism"
+      },
+      {
+        "id": 42,
+        "title": "Dynamism of a Dog on a Leash",
+        "artist": "Giacomo Balla",
+        "year": 1912,
+        "medium": "Oil on canvas",
+        "nationality": "Italian",
+        "image": "https://upload.wikimedia.org/wikipedia/en/3/36/Giacomo_Balla%2C_1912%2C_Dynamism_of_a_Dog_on_a_Leash%2C_oil_on_canvas%2C_89.8_x_109.8_cm%2C_Albright-Knox_Art_Gallery.jpg",
+        "movement": "futurism"
+      },
+      {
+        "id": 43,
+        "title": "The City Rises",
+        "artist": "Umberto Boccioni",
+        "year": 1910,
+        "medium": "Oil on canvas",
+        "nationality": "Italian",
+        "image": "https://wallector.com/media/mageplaza/blog/post/f/u/futurism860.440.png",
+        "movement": "futurism"
+      },
+      {
+        "id": 44,
+        "title": "Simultaneous Visions",
+        "artist": "Umberto Boccioni",
+        "year": 1911,
+        "medium": "Oil on canvas",
+        "nationality": "Italian",
+        "image": "https://uploads6.wikiart.org/images/salvador-dali/the-persistence-of-memory-1931.jpg!Large.jpg",
+        "movement": "futurism"
+      },
+      {
+        "id": 45,
+        "title": "Unique Forms of Continuity in Space",
+        "artist": "Marcel Duchamp",
+        "year": 1913,
+        "medium": "Bronze sculpture",
+        "nationality": "French",
+        "image": "https://www.ladykflo.com/wp-content/uploads/2022/04/jmy-elephants-in-the-style-of-salvador-dali_2020-02-03T12-53-54.jpg",
+        "movement": "futurism"
+      },
+      {
+        "id": 46,
+        "title": "The Charge of the Lancers",
+        "artist": "Gino Severini",
+        "year": 1915,
+        "medium": "Oil on canvas",
+        "nationality": "Italian",
+        "image": "https://www.renemagritte.org/images/paintings/the-treachery-of-images.jpg",
+        "movement": "futurism"
+      },
+      {
+        "id": 47,
+        "title": "Dynamism of a Cyclist",
+        "artist": "Umberto Boccioni",
+        "year": 1913,
+        "medium": "Oil on canvas",
+        "nationality": "Italian",
+        "image": "https://d7hftxdivxxvm.cloudfront.net/?height=800&quality=80&resize_to=fit&src=https%3A%2F%2Fd32dm0rphc51dk.cloudfront.net%2Fm90ZweXd6UO2UrWAwP_6kg%2Fnormalized.jpg&width=618",
+        "movement": "futurism"
+      },
+      {
+        "id": 48,
+        "title": "Noise of the Street Enters the House",
+        "artist": "Luigi Russolo",
+        "year": 1911,
+        "medium": "Oil on canvas",
+        "nationality": "Italian",
+        "image": "",
+        "movement": "futurism"
+      },
+      {
+        "id": 49,
+        "title": "Dancer at Pigalle",
+        "artist": "Gino Severini",
+        "year": 1912,
+        "medium": "Oil on canvas",
+        "nationality": "Italian",
+        "image": "",
+        "movement": "futurism"
+      },
+      {
+        "id": 50,
+        "title": "Funeral of the Anarchist Galli",
+        "artist": "Carlo Carra",
+        "year": 1911,
+        "medium": "Oil on canvas",
+        "nationality": "Italian",
+        "image": "",
+        "movement": "futurism"
+      },
+      {
+        "id": 51,
+        "title": "No. 5, 1948",
+        "artist": "Jackson Pollock",
+        "year": 1948,
+        "medium": "Oil and enamel on canvas",
+        "nationality": "American",
+        "image": "https://www.jackson-pollock.org/images/paintings/number-5.jpg",
+        "movement": "abstract"
+      },
+      {
+        "id": 52,
+        "title": "Woman I",
+        "artist": "Willem de Kooning",
+        "year": 1950,
+        "medium": "Oil on canvas",
+        "nationality": "American",
+        "image": "https://collectionapi.metmuseum.org/api/collection/v1/iiif/483877/1006615/restricted",
+        "movement": "abstract"
+      },
+      {
+        "id": 53,
+        "title": "Blue Poles",
+        "artist": "Jackson Pollock",
+        "year": 1952,
+        "medium": "Enamel and aluminum paint on canvas",
+        "nationality": "American",
+        "image": "https://images.theconversation.com/files/105030/original/image-20151209-3285-1i1zkt6.jpg?ixlib=rb-1.1.0&q=20&auto=format&w=320&fit=clip&dpr=2&usm=12&cs=strip",
+        "movement": "abstract"
+      },
+      {
+        "id": 54,
+        "title": "Number 1A",
+        "artist": "Mark Rothko",
+        "year": 1948,
+        "medium": "Oil on canvas",
+        "nationality": "American",
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/4c/No_1_%28Royal_Red_and_Blue%29_by_Mark_Rothko_%281954%29.jpg",
+        "movement": "abstract"
+      },
+      {
+        "id": 55,
+        "title": "Black on Maroon",
+        "artist": "Mark Rothko",
+        "year": 1958,
+        "medium": "Oil on canvas",
+        "nationality": "American",
+        "image": "",
+        "movement": "abstract"
+      },
+      {
+        "id": 56,
+        "title": "Elegy to the Spanish Republic no. 110",
+        "artist": "Robert Motherwell",
+        "year": 1962,
+        "medium": "Oil on canvas",
+        "nationality": "American",
+        "image": "https://www.guggenheim.org/wp-content/uploads/1971/01/84.3223_ph_web-1.jpg",
+        "movement": "abstract"
+      },
+      {
+        "id": 57,
+        "title": "Number 14",
+        "artist": "Mark Rothko",
+        "year": 1960,
+        "medium": "Oil on canvas",
+        "nationality": "American",
+        "image": "",
+        "movement": "abstract"
+      },
+      {
+        "id": 58,
+        "title": "Lavender Mist",
+        "artist": "Jackson Pollock",
+        "year": 1950,
+        "medium": "Oil, enamel, and aluminum paint on canvas",
+        "nationality": "American",
+        "image": "./public/assets/abstract/lavender_mist.jpg",
+        "movement": "abstract"
+      },
+      {
+        "id": 59,
+        "title": "Elegy to the Spanish Republic",
+        "artist": "Robert Motherwell",
+        "year": 1958,
+        "medium": "Oil on canvas",
+        "nationality": "American",
+        "image": "",
+        "movement": "abstract"
+      },
+      {
+        "id": 60,
+        "title": "White Light",
+        "artist": "Joan Mitchell",
+        "year": 1976,
+        "medium": "Acrylic on canvas",
+        "nationality": "American",
+        "image": "",
+        "movement": "abstract"
+      }
+    ]
 }
